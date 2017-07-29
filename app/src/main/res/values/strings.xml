@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chamadeen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="mainTitles">
+        <item>1. NO POVERTY</item>
+        <item>2. ZERO HUNGER</item>
+        <item>3. GOOD HEALTH AND WELL-BEING</item>
+        <item>4. QUALITY EDUCATION</item>
+        <item>5. GENDER EQUALITY</item>
+        <item>6. CLEAN WATER AND SANITATION</item>
+        <item>7. AFFORDABLE AND CLEAN ENERGY</item>
+        <item>8. DECENT WORK AND ECONOMIC GROWTH</item>
+        <item>9. INDUSTRY, INNOVATION AND INFRASTRUCTURE</item>
+        <item>10. REDUCED INEQUALITIES</item>
+    </string-array>
+
+    <string-array name="zerohungeritems">
+        <item>zero hunger post one</item>
+        <item>zero hunger post two</item>
+        <item>zero hunger post three</item>
+        <item>zero hunger post four</item>
+        <item>zero hunger post five</item>
+        <item>zero hunger post sex</item>
+    </string-array>
+
+
+</resources>
